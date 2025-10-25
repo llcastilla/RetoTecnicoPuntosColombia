@@ -1,0 +1,19 @@
+{
+  "destinoCliente": {
+    "diaIda": "28",
+    "diaRegreso": "5",
+    "pasajeroAdulto": "3",
+    "pasajeroNino": "1"
+  },
+  "filtroVuelo": {
+    "valor": "300",
+    "precioVuelo": "192.64"
+  },
+  "contacto": {
+    "nombre": "leonardo luis castilla garcia",
+    "correo": "retoautomatio@yopmail.com",
+    "seguroSocial": "451-55-5447",
+    "telefono": "573045766",
+    "codigoPromocional": "5465654"
+  }
+}
