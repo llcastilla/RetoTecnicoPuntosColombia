@@ -10,8 +10,8 @@ Feature: Agendar viaje en línea con filtro de precios
     Then el sistema muestra la confirmación del viaje agendado exitosamente
 
     Examples:
-      | data            |
-      | dataCliente |
+      | data         |
+      | dataCliente  |
       | dataCliente1 |
       | dataCliente2 |
       | dataCliente3 |
