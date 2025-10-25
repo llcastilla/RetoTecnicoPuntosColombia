@@ -60,8 +60,6 @@ test {
         systemProperties project.properties.subMap(["username","password"])
         systemProperty "cucumber.filter.tags", System.getProperty("cucumber.filter.tags")
     }
-}
-test {
     maxParallelForks = 4   // número de hilos en paralelo
     forkEvery = 1          // ejecuta cada test en un nuevo proceso
 }
